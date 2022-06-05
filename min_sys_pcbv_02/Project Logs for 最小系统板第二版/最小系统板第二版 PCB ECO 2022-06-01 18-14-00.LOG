@@ -1,0 +1,229 @@
+Added Component: Designator=C1(0603C)
+Added Component: Designator=C2(0603C)
+Added Component: Designator=C3(0603C)
+Added Component: Designator=C4(0603C)
+Added Component: Designator=C5(0603C)
+Added Component: Designator=C6(0603C)
+Added Component: Designator=C7(0603C)
+Added Component: Designator=C8(0603C)
+Added Component: Designator=C9(0603C)
+Added Component: Designator=C10(0603C)
+Added Component: Designator=C11(0603C)
+Added Component: Designator=C12(0603C)
+Added Component: Designator=D1(LED-0805B)
+Added Component: Designator=D2(LED-0805B)
+Added Component: Designator=P1(HDR2.54-WI-4P)
+Added Component: Designator=P2(Pin HDR2X3/2.54mm-S)
+Added Component: Designator=P3(Pin HDR1X20/2.54mm-S)
+Added Component: Designator=P4(Pin HDR1X20/2.54mm-S)
+Added Component: Designator=R1(0603R)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=R3(0603R)
+Added Component: Designator=R4(0603R)
+Added Component: Designator=R5(0603R)
+Added Component: Designator=R6(0603R)
+Added Component: Designator=R7(0603R)
+Added Component: Designator=R8(0603R)
+Added Component: Designator=R9(0603R)
+Added Component: Designator=SW1(DIP-3X6X4.3)
+Added Component: Designator=U3(LQFP-48_M)
+Added Component: Designator=Y2(PCBComponent_1 - duplicate)
+Added Pin To Net: NetName=5V Pin=C8-1
+Added Pin To Net: NetName=5V Pin=C9-1
+Added Pin To Net: NetName=5V Pin=P4-3
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Net: Name=5V
+Added Pin To Net: NetName=BOOT0 Pin=R2-1
+Added Pin To Net: NetName=BOOT0 Pin=U3-44
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=BOOT1 Pin=R3-2
+Added Pin To Net: NetName=BOOT1 Pin=U3-20
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P3-19
+Added Pin To Net: NetName=GND Pin=P3-20
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-23
+Added Pin To Net: NetName=GND Pin=U3-35
+Added Pin To Net: NetName=GND Pin=U3-47
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=C12-2
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=R1-2
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=R4-2
+Added Net: Name=NetD2_K
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=R2-2
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_4 Pin=R3-1
+Added Net: Name=NetP2_4
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NRST Pin=C10-1
+Added Pin To Net: NetName=NRST Pin=P3-17
+Added Pin To Net: NetName=NRST Pin=R5-2
+Added Pin To Net: NetName=NRST Pin=SW1-1
+Added Pin To Net: NetName=NRST Pin=U3-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSCIN Pin=C11-1
+Added Pin To Net: NetName=OSCIN Pin=R9-1
+Added Pin To Net: NetName=OSCIN Pin=U3-5
+Added Pin To Net: NetName=OSCIN Pin=Y2-1
+Added Net: Name=OSCIN
+Added Pin To Net: NetName=OSCOUT Pin=C12-1
+Added Pin To Net: NetName=OSCOUT Pin=R9-2
+Added Pin To Net: NetName=OSCOUT Pin=U3-6
+Added Pin To Net: NetName=OSCOUT Pin=Y2-2
+Added Net: Name=OSCOUT
+Added Pin To Net: NetName=PA0 Pin=P3-5
+Added Pin To Net: NetName=PA0 Pin=U3-10
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=P3-6
+Added Pin To Net: NetName=PA1 Pin=U3-11
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=P3-7
+Added Pin To Net: NetName=PA2 Pin=U3-12
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=P3-8
+Added Pin To Net: NetName=PA3 Pin=U3-13
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=P3-9
+Added Pin To Net: NetName=PA4 Pin=U3-14
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=P3-10
+Added Pin To Net: NetName=PA5 Pin=U3-15
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=P3-11
+Added Pin To Net: NetName=PA6 Pin=U3-16
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=P3-12
+Added Pin To Net: NetName=PA7 Pin=U3-17
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=P4-16
+Added Pin To Net: NetName=PA8 Pin=U3-29
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=P4-15
+Added Pin To Net: NetName=PA9 Pin=U3-30
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=P4-14
+Added Pin To Net: NetName=PA10 Pin=U3-31
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=P4-13
+Added Pin To Net: NetName=PA11 Pin=R6-1
+Added Pin To Net: NetName=PA11 Pin=U3-32
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=P4-12
+Added Pin To Net: NetName=PA12 Pin=R7-1
+Added Pin To Net: NetName=PA12 Pin=R8-1
+Added Pin To Net: NetName=PA12 Pin=U3-33
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA15 Pin=P4-11
+Added Pin To Net: NetName=PA15 Pin=U3-38
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=P3-13
+Added Pin To Net: NetName=PB0 Pin=U3-18
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=P3-14
+Added Pin To Net: NetName=PB1 Pin=U3-19
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB3 Pin=P4-10
+Added Pin To Net: NetName=PB3 Pin=U3-39
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=P4-9
+Added Pin To Net: NetName=PB4 Pin=U3-40
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=P4-8
+Added Pin To Net: NetName=PB5 Pin=U3-41
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=P4-7
+Added Pin To Net: NetName=PB6 Pin=U3-42
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=P4-6
+Added Pin To Net: NetName=PB7 Pin=U3-43
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=P4-5
+Added Pin To Net: NetName=PB8 Pin=U3-45
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=P4-4
+Added Pin To Net: NetName=PB9 Pin=U3-46
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=P3-15
+Added Pin To Net: NetName=PB10 Pin=U3-21
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=P3-16
+Added Pin To Net: NetName=PB11 Pin=U3-22
+Added Net: Name=PB11
+Added Pin To Net: NetName=PB12 Pin=P4-20
+Added Pin To Net: NetName=PB12 Pin=U3-25
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=P4-19
+Added Pin To Net: NetName=PB13 Pin=U3-26
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=P4-18
+Added Pin To Net: NetName=PB14 Pin=U3-27
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=P4-17
+Added Pin To Net: NetName=PB15 Pin=U3-28
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC13 Pin=P3-2
+Added Pin To Net: NetName=PC13 Pin=R4-1
+Added Pin To Net: NetName=PC13 Pin=U3-2
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=P3-3
+Added Pin To Net: NetName=PC14 Pin=U3-3
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=P3-4
+Added Pin To Net: NetName=PC15 Pin=U3-4
+Added Net: Name=PC15
+Added Pin To Net: NetName=SWCLK Pin=P1-3
+Added Pin To Net: NetName=SWCLK Pin=U3-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWIO Pin=P1-2
+Added Pin To Net: NetName=SWIO Pin=U3-34
+Added Net: Name=SWIO
+Added Pin To Net: NetName=VBAT Pin=P3-1
+Added Pin To Net: NetName=VBAT Pin=U3-1
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VCC3V3 Pin=C1-1
+Added Pin To Net: NetName=VCC3V3 Pin=C2-1
+Added Pin To Net: NetName=VCC3V3 Pin=C3-1
+Added Pin To Net: NetName=VCC3V3 Pin=C4-1
+Added Pin To Net: NetName=VCC3V3 Pin=C5-1
+Added Pin To Net: NetName=VCC3V3 Pin=C6-2
+Added Pin To Net: NetName=VCC3V3 Pin=C7-1
+Added Pin To Net: NetName=VCC3V3 Pin=D1-A
+Added Pin To Net: NetName=VCC3V3 Pin=D2-A
+Added Pin To Net: NetName=VCC3V3 Pin=P1-1
+Added Pin To Net: NetName=VCC3V3 Pin=P2-1
+Added Pin To Net: NetName=VCC3V3 Pin=P2-2
+Added Pin To Net: NetName=VCC3V3 Pin=P3-18
+Added Pin To Net: NetName=VCC3V3 Pin=P4-1
+Added Pin To Net: NetName=VCC3V3 Pin=R5-1
+Added Pin To Net: NetName=VCC3V3 Pin=U3-9
+Added Pin To Net: NetName=VCC3V3 Pin=U3-24
+Added Pin To Net: NetName=VCC3V3 Pin=U3-36
+Added Pin To Net: NetName=VCC3V3 Pin=U3-48
+Added Net: Name=VCC3V3
+Added Class: Name=最小系统板第二版
+Added Room: Name=最小系统板第二版

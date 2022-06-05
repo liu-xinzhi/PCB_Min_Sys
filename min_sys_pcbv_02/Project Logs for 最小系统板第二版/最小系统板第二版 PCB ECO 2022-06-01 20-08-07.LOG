@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Y2 Old Footprint=PCBComponent_1 - duplicate New Footprint=HC-49SMD_L11.1-W4.8
+Change Component Footprint: Designator=U2 Old Footprint=USB-TH_USB-101-W-FE New Footprint=PCBComponent_1 - duplicate
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Room: Name=最小系统板第二版

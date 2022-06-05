@@ -1,0 +1,12 @@
+Added Component: Designator=U1(SOT-223_L6.5-W3.5-P2.30-LS7.0-BR)
+Added Component: Designator=U2(USB-TH_USB-101-W-FE)
+Added Pin To Net: NetName=VCC3V3 Pin=U1-1
+Added Pin To Net: NetName=5V Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Pin To Net: NetName=NetR6_2 Pin=U2-2
+Added Pin To Net: NetName=NetR7_2 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Member To Class: ClassName=最小系统板第二版 Member=Component U1 AMS1117
+Added Member To Class: ClassName=最小系统板第二版 Member=Component U2 USB-mrico
+Added Room: Name=最小系统板第二版

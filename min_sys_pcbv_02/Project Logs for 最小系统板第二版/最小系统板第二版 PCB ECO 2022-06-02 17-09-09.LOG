@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=SW1 Old Footprint=DIP-3X6X4.3 New Footprint=复位开关
+Change Component Footprint: Designator=Y2 Old Footprint=HC-49SMD_L11.1-W4.8 New Footprint=直插外部晶振
+Added Member To Class: ClassName=最小系统板第二版 Member=Component U1 AMS1117
+Added Room: Name=最小系统板第二版
